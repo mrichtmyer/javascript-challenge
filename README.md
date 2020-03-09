@@ -21,3 +21,6 @@ Matthew Richtmyer 08 Mar 2020
 Both the date and city fields need to successfuly match an entry to produce a result. Please note that the the query is format and case sensitive. Successful cases include:
 - Date: 1/1/2010 and City: benton
 - Date: 1/1/2010 and City: el cajon
+
+# Sample Result:
+![Sample Results](UFO-level-1/static/images/sample-results)
