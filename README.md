@@ -23,4 +23,4 @@ Both the date and city fields need to successfuly match an entry to produce a re
 - Date: 1/1/2010 and City: el cajon
 
 # Sample Result:
-![Sample Results](UFO-level-1/static/images/sample-results)
+![Sample Results](UFO-level-1/static/images/sample-results.png)
