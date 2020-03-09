@@ -25,6 +25,7 @@ function buildTable(date_query,city_query) {
     var durationMinutes = [];
     var comments = [];
     
+    // comment right here!
     for (var i=0; i<data.length; i++){
         // push data into lists
         datetime.push(data[i].datetime);
